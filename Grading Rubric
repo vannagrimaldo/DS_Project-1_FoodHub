@@ -1,0 +1,23 @@
+Project Requirements and Grading Rubric. 
+
+
+Criteria	Points:
+Understanding the structure of the data (5 Points)
+- Overview of the dataset shape, datatypes - Statistical summary and check for missing values - Answer all the key questions asked in this section
+
+Univariate Data Analysis (15 Points)
+- Explore all the variables and provide observations on the distributions of all the relevant variables in the dataset - Answer all the key questions asked in this section
+
+Multivariate Data Analysis (20 Points)
+- Perform bivariate/multivariate analysis to explore relationships between the important variables in the dataset - Answer all the key questions asked in this section
+
+Quality & Use of visualisations (6 points)
+- Use proper visualizations for the analysis and provide observations on the plots
+
+Conclusion and Recommendations (6 points)
+- Conclude with the key insights/observations
+
+Presentation/Notebook - Overall Quality (8 points)
+- Structure and flow - Crispness - Visual appeal - All key insights and recommendations covered? OR - Structure and flow - Well commented code - All key insights and recommendations covered?
+
+Total Points	60
